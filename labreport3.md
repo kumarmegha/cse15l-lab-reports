@@ -4,7 +4,7 @@
 
 My failure inducing test input is as follows:
 
-```  //non failure inducing 
+```
   public void testReverseInPlaceWithSizeOne() {
     int[] inputArray = {2}; // Array with size 1
     ArrayExamples.reverseInPlace(inputArray);
@@ -14,6 +14,7 @@ My failure inducing test input is as follows:
   }
 ```
 And here is my non failure inducing test input:
+
 ```
   public void testReverseInPlaceWithSizeOne() {
     int[] inputArray = {2}; // Array with size 1
@@ -30,6 +31,7 @@ Next, the symptom, as the output of running the tests:
 And finally, the bug, as in my before-and-after code change to fix it:
 
 BEFORE:
+
 ```
   static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
@@ -39,6 +41,7 @@ BEFORE:
 ```
 
 AFTER:
+
 ```
   static void reverseInPlace(int[] arr) {
     int start = 0;
@@ -135,7 +138,7 @@ written_2//travel_guides/berlitz1/WhereToHongKong.txt
 *commands found on https://www.redhat.com/sysadmin/linux-find-command*
 
 
-**Search for a path**
+**Search for a Path**
 
 ```find [path] -ipath [text]``` will search for a file and return the path leading to it. This is useful if
 you know what file youʼre looking for, but perhaps donʼt know the path to find it exactly.

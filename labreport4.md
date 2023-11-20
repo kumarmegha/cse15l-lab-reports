@@ -1,4 +1,4 @@
-# LAB REPORT 3: VIM
+# LAB REPORT 4: VIM
 
 ## STEP 4
 

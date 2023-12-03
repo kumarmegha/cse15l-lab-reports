@@ -6,7 +6,7 @@
 
 **Keys pressed:**
 
-ssh cs15lwi23air@ieng6.ucsd.edu `<enter>`
+ssh cs15lfa23if@ieng6.ucsd.edu `<enter>`
 yes
 `<command V>` `<enter>`
 
@@ -15,13 +15,13 @@ next prompt, and finally pasted my password when prompted (which I had already c
 
 ## STEP 5
 
-![Image](third.png)
+![Image](dec3.png)
 
 **Keys pressed:**
 
 git clone `<command V>` `<enter>`
 
-*The link from the forked repository was already copied, so I just had to paste it into the terminal to clone
+*The SSH link from the forked repository was already copied, so I just had to paste it into the terminal to clone
 it.*
 
 ## STEP 6
@@ -44,13 +44,14 @@ cd la `<tab>` `<enter>`
 
 ## STEP 7
 
-![Image](fifth.png)
+![Image](decpt1.png)
+![Image](newest.png)
 
 **Keys pressed:**
 
-nano ListExamples.java
+vim ListExamples.java
 
-*I opened editor for ListExamples.java file.*
+*I opened the vim editor for ListExamples.java file.*
 
 `<right>` `<right>` `<right>` `<right>` `<right>` `<right>` `<right>` 
 `<right>` `<right>` `<right>` `<right>` `<right>`
@@ -80,6 +81,7 @@ in “2” to fix the error.*
 ## STEP 9
 
 ![Image](seventh.png)
+![Image](meggg.png)
 
 **Keys pressed:**
 
@@ -91,3 +93,8 @@ git commit -m “Fixed error in merge method” `<enter>`
 
 *I committed changes with message “Fixed error in
 merge method”.*
+
+git push -u origin main `<enter>`
+
+*I pushed the changes to my GitHub account.*
+

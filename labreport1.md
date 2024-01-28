@@ -21,7 +21,7 @@ The ```cat``` command followed by ```Hello.java``` works successfully with no er
 
 # the cd command
 ![Image](lab1-7.png) 
-Running the ```cd``` or current directory command with no arguments following while we haven't navigated to any directory outside of the ```home``` one outputs nothings because we have not navigated to a directory yet. There is no error, but also no output.
+Running the ```cd``` or current directory command with no arguments following changes you from the working directory you are in to the home directory (or keeps you in the home directory, if you're already in it). There is no error here, but also no output.
 
 ![Image](lab1-8.png)
 Running ```cd``` followed by ```lecture1``` while we are in the ```home``` directory doesn't produce any output, but we can notice that the file path for the next command has changed from ending at the ~ to now ~/```lecture1``` meaning the path has been redirected. This means there were no errors when it ran.

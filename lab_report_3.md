@@ -5,11 +5,10 @@
 My failure inducing test input is as follows:
 
 ```
-  public void testReverseInPlaceWithSizeOne() {
-    int[] inputArray = {2}; // Array with size 1
+  public void testReverseInPlace() {
+    int[] inputArray = {1, 2, 3, 4, 5}; 
     ArrayExamples.reverseInPlace(inputArray);
-    // For an array of size 1, reversing it in place won't change anything
-    int[] expectedArray = {2};
+    int[] expectedArray = {5, 4, 3, 2, 1};
     assertArrayEquals(expectedArray, inputArray);
   }
 ```

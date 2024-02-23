@@ -2,7 +2,7 @@
 
 ## STEP 4
 
-![Image](first.png)
+![Image](one.png)
 
 **Keys pressed:**
 
@@ -15,7 +15,7 @@ next prompt, and finally pasted my password when prompted (which I had already c
 
 ## STEP 5
 
-![Image](dec3.png)
+![Image](two.png)
 
 **Keys pressed:**
 
@@ -26,7 +26,8 @@ it.*
 
 ## STEP 6
 
-![Image](fourth.png)
+![Image](failureone.png)
+![Image](failuretwo.png)
 
 **Keys pressed:**
 
@@ -44,8 +45,8 @@ cd la `<tab>` `<enter>`
 
 ## STEP 7
 
-![Image](decpt1.png)
-![Image](newest.png)
+![Image](stepsevenone.png)
+![Image](stepseventwo.png)
 
 **Keys pressed:**
 
@@ -66,7 +67,7 @@ in “2” to fix the error.*
 
 ## STEP 8
 
-![Image](sixth.png)
+![Image](oktests.png)
 
 **Keys pressed:**
 
@@ -80,8 +81,10 @@ in “2” to fix the error.*
 
 ## STEP 9
 
-![Image](seventh.png)
-![Image](meggg.png)
+![Image](fourthtolast.png)
+![Image](thirdtolast.png)
+![Image](secondtolast.png)
+![Image](last.png)
 
 **Keys pressed:**
 

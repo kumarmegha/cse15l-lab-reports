@@ -54,16 +54,16 @@ vim ListExamples.java
 
 *I opened the vim editor for ListExamples.java file.*
 
-`<right>` `<right>` `<right>` `<right>` `<right>` `<right>` `<right>` 
+`<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<down>` `<right>` `<right>` `<right>` `<right>` `<right>` `<right>` `<right>` 
 `<right>` `<right>` `<right>` `<right>` `<right>`
 `<delete>` 2
 
-*I scrolled down to the error, moved right 12 times with the arrow keys, deleted the “1” and typed
+*I scrolled down to the error by pressing down 32 times, then moved right 12 times with the arrow keys, deleted the “1” and typed
 in “2” to fix the error.*
 
-`<^X>` Y `<enter>`
+`<esc>` :wq `<enter>`
 
-*I used control X to exit the editor, pressed Y (yes) to save changes, and pressed enter to confirm.*
+*I used control esc to exit the editor, typed ":wq" to write quit and save changes, then pressed enter to confirm.*
 
 ## STEP 8
 
